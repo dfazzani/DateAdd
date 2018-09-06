@@ -1,0 +1,9 @@
+c:\users\dfazzani\documents\visual studio 2015\Projects\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe.config
+c:\users\dfazzani\documents\visual studio 2015\Projects\DateCalculator\DateCalculator\obj\Debug\DateCalculator.csprojResolveAssemblyReference.cache
+c:\users\dfazzani\documents\visual studio 2015\Projects\DateCalculator\DateCalculator\obj\Debug\DateCalculator.Properties.Resources.resources
+c:\users\dfazzani\documents\visual studio 2015\Projects\DateCalculator\DateCalculator\obj\Debug\DateCalculator.csproj.GenerateResource.Cache
+c:\users\dfazzani\documents\visual studio 2015\Projects\DateCalculator\DateCalculator\bin\Debug\DateCalculator.exe
+c:\users\dfazzani\documents\visual studio 2015\Projects\DateCalculator\DateCalculator\bin\Debug\DateCalculator.pdb
+c:\users\dfazzani\documents\visual studio 2015\Projects\DateCalculator\DateCalculator\obj\Debug\DateCalculator.exe
+c:\users\dfazzani\documents\visual studio 2015\Projects\DateCalculator\DateCalculator\obj\Debug\DateCalculator.pdb
+c:\users\dfazzani\documents\visual studio 2015\Projects\DateCalculator\DateCalculator\obj\Debug\DateCalculator.DateTool.resources
